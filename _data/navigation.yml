@@ -1,4 +1,8 @@
 main:
+  - title: "Home"
+    url: /splash-page/
+  - title: "Home2"
+    url: 
   - title: "Posts"
     url: /posts/
   - title: "Categories"
